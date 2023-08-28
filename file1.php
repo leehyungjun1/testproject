@@ -1,4 +1,6 @@
 <?php
+	echo "@#";
+	echo "@@@";
 	function filecheck($param) {
 		return filecheck1($param);
 	}
